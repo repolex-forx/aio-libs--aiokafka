@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiokafka/commit/13a6400024621371254f32e17bd489313dbcc63f",
       "git:hexsha": "13a6400024621371254f32e17bd489313dbcc63f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiokafka/commit/d7201c1e26fd2f3e51f15a2cdeda9753d4fd3a1a",
